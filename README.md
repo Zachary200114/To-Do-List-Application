@@ -81,14 +81,4 @@ You have marked off/Finished: Work
 - Only accepts numerical input for task removal.
 - Does not save tasks after closing the app.
 
-## 🤝 Contributing
-
-Feel free to fork this repository, make improvements, and submit pull requests!
-
-## 📄 License
-
-This project is released under the **MIT License**.
-
----
-
 ⭐ Enjoy managing your tasks efficiently with this fun Pygame project!
