@@ -11,10 +11,15 @@ For this project the screen size was set to 1000x800 and the background color wa
 The font size of the text is set to 30.
 
 The variables in the project are:
+
 Name - Stores the users name.
+
 Tasks - The tasks the user set.
+
 current_input - Retains what the user typed.
+
 input_type - Tracks what stage the user is in for example "adding" "removing" or "name" stage of the application.
+
 task_to_remove - Stores the task number the user wants to delete.
 
 
